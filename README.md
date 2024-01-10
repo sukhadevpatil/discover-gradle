@@ -44,3 +44,9 @@ tasks - Displays the tasks runnable from root project 'discover-gradle'.
 # To see all tasks and more detail, run gradlew tasks --all
 
 ====================================================================================
+
+# Some imp tasks -
+
+> gradlew.bat jar
+> gradlew.bat test
+> gradlew.bat assemble
